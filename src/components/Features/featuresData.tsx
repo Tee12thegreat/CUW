@@ -44,7 +44,7 @@ const featuresData: Feature[] = [
     ),
     title: "Loans for Civil Servants",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Civil service workers get to enjoy CashU services.",
   },
   {
     id: 1,
@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Loans for Small to Medium Enterprises(SME's)",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "CashU has financial love in abundance for SME's looking to kickstart their ventures.",
   },
   {
     id: 1,
