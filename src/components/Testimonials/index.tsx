@@ -5,30 +5,30 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Madetete Pvt Ltd",
+    designation: "Founder @POK Investments",
     content:
       "Leave all your financial nightmares to CashU.",
-    image: "/images/testimonials/auth-01.png",
+    image: "/images/testimonials/",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "David Samson",
+    designation: "Founder @Munari Bottle Store",
     content:
       "I regret not being able to have accessed CashU earlier.",
-    image: "/images/testimonials/auth-02.png",
-    star: 5,
+    image: "/images/testimonials/",
+    star: 4,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "Lochvile Munyanza",
+    designation: "Founder @Mutasa Holdings",
     content:
       "CashU has given me a life changing opportunity, to convert my financial crisis into a thriving venture.",
-    image: "/images/testimonials/auth-03.png",
-    star: 5,
+    image: "/images/testimonials/",
+    star: 4,
   },
 ];
 
